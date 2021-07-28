@@ -5,4 +5,4 @@ new CountdownTimer({selector:"#timer-1",targetDate:new Date("Dec 31, 2021")}),my
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/countdown-timer");
 },{"./sass/main.scss":"clu1","./js/countdown-timer":"lWZo"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-timer/src.409e9c9f.js.map
+//# sourceMappingURL=/goit-js-hw-11-timer/src.46da96cc.js.map
