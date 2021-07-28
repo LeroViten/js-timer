@@ -18,6 +18,11 @@ body {
   -webkit-transform: translate3d(0, 0, 0);
 }
 
+.title {
+  text-align: center;
+  padding-top: 40px;
+}
+
 .timer {
   display: flex;
   justify-content: center;
