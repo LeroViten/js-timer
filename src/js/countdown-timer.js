@@ -43,9 +43,9 @@ class CountdownTimer {
   }, 1000);
 }
 
-// create and load countdown timer:
+// create and load countdown timer for our wedding day ^.^
 const timer = new CountdownTimer({
   selector: '#timer-1',
-  targetDate: new Date('Nov 17, 2021'),
+  targetDate: new Date('Aug 27, 2021'),
 });
 timer.updateTimer();
