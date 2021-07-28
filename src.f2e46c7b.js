@@ -5,4 +5,4 @@ function e(e,t,a){return t in e?Object.defineProperty(e,t,{value:a,enumerable:!0
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/countdown-timer");
 },{"./sass/main.scss":"clu1","./js/countdown-timer":"lWZo"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-11-timer/src.b9b994e8.js.map
+//# sourceMappingURL=/goit-js-hw-11-timer/src.f2e46c7b.js.map
